@@ -34,3 +34,9 @@ Thumbs.db
 # ── Docker volumes (local dev) ─────────────────────��──────
 data/
 volumes/
+
+/06-lab-complete/benchmark-observability/develop/logs/
+
+# Local benchmark artifacts
+/06-lab-complete/benchmark-observability/develop/reports/
+/06-lab-complete/benchmark-observability/production/benchmark-results/
